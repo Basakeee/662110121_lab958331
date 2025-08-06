@@ -1,11 +1,12 @@
 body {
-    background-color: #ff0ceb;
+    background-color: #723cee;
 }
 
 .card-img-top {
     border: 4px solid #0d6efd;
 }
 
-.badge {
-    margin: 2px #ff0ceb;
+.custom-badge {
+    background-color: #80ffb1 !important;
+    color: #723cee;
 }
