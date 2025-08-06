@@ -1,0 +1,12 @@
+{
+  "name": "662110121_lab958331",
+  "version": "1.0.0",
+  "description": "This repository of 662110121 Chiradet Donphaiyon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
